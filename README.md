@@ -11,10 +11,11 @@ If there are any doubts regarding the solutions, feel free to contact me✏️
 ### Here is a list of the questions that are solved along with the *packages* which contain the solutions:✅
 |Problems| Package |
 |--------- | -|
-| Welcome to Java!  | |
-| Java Stdin and Stdout I  | |
+| Welcome to Java!  | welcomeToJava|
+| Java Stdin and Stdout I  | javaStdinandStdoutI|
 |Java If-Else| |
 |Java Stdin and Stdout II||
 |Java Output Formatting| |
 |Java Loops I| |
 |Java Datatypes| javaDatatypes|
+| Java Loops II | javaLoopsII |
