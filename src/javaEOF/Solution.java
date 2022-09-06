@@ -13,5 +13,6 @@ public class Solution {
             System.out.println(i + " " + sc.nextLine());
             i++;
         }
+        sc.close();
     }
 }
